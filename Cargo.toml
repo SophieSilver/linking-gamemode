@@ -1,0 +1,11 @@
+[package]
+name = "linking-gamemode"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.157"
+
+[build-dependencies]
+cc = "1.1.13"
+
